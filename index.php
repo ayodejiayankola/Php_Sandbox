@@ -62,13 +62,13 @@ echo  str_replace("Hi", "Hello", "Hi There");
     echo "<br>";
     echo 100**100;
 
-*/
+
 // Assignment Operators
     $x = 50;
     $x += 50;
 
     echo $x;
-
+*/
 
     ?>
 </body>
