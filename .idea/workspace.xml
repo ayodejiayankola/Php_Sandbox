@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a90eb377-ad3f-46c9-ac6d-ed665276b88b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1d6GxvzIWHGM86Ko3PJDNCz5Wxp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a90eb377-ad3f-46c9-ac6d-ed665276b88b" name="Default Changelist" comment="" />
+      <created>1591738379629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591738379629</updated>
+      <workItem from="1591738390336" duration="2976000" />
+      <workItem from="1591868480269" duration="1016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="189" key="run.anything.popup" timestamp="1591869069466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591869069466" />
+  </component>
+</project>
