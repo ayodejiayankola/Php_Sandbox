@@ -65,10 +65,41 @@ echo  str_replace("Hi", "Hello", "Hi There");
 
 // Assignment Operators
     $x = 50;
+    $x = $x + 50;
     $x += 50;
 
     echo $x;
+
+
+//comparison Operators
+    $x = 5;
+    $y = '5';
+    if($x === $y){
+        echo  true;
+    }else{
+        echo  false;
+    }
+
+// increment and decrement
+ $x = 30;
+ while ($x<100){
+     $x ++  ;
+     echo   "<br>";
+     echo $x;
+    }
+
+
 */
+    //logical operator
+
+
+    $x = 70;
+    $y = 100;
+    if($x == $y XOR ( 7 == 7)){
+        echo true;
+    } else{
+        echo 'it is not true';
+    }
 
     ?>
 </body>
